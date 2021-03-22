@@ -57,5 +57,3 @@ Comentarios sobre la práctica:
 
 - como no me quedó muy claro si los nuevos registros sobrescriben o no (primero se pidió una cosa, el día de la entrega se concretó otra), en mi caso he incluido
 el método pop() para sacar la anterior y push() para incluir la nueva. Si quiere que se añadan las dos, únicamente deberían comentarse los métodos pop().
-
-- en la carpeta "img" he incluido una captura con los valores mostrados en consola.

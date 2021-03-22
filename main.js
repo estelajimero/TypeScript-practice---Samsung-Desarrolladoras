@@ -19,5 +19,5 @@ var nuevoTelefono = new phone_1.Phone("Trabajo", 600987234);
 personaFiltrada.telefonos.pop();
 personaFiltrada.telefonos.push(nuevoTelefono);
 for (var i = 0; i < personas.length; i++) {
-    console.table(personas[i]);
+    console.log(personas[i]);
 }

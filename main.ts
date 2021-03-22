@@ -107,5 +107,5 @@ personaFiltrada.telefonos.pop();
 personaFiltrada.telefonos.push(nuevoTelefono);
 
 for(let i = 0; i < personas.length; i++) {
-    console.table(personas[i]);
+    console.log(personas[i]);
 }
